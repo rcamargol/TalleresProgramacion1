@@ -8,6 +8,11 @@ public class Persistencia {
 	private String moneda = "Euros"; 
 	private String nombreApp = "Conversión de Moneda";
 	
+	public Persistencia()
+	{
+		//no pongo nada. Y que?
+	}
+	
 	public String[] getUnidades() {
 		return unidades;
 	}
