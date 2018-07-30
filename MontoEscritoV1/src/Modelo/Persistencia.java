@@ -11,6 +11,7 @@ public class Persistencia {
 	public Persistencia()
 	{
 		//no pongo nada. Y que?
+		String nada = "";
 	}
 	
 	public String[] getUnidades() {
